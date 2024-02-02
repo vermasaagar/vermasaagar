@@ -72,7 +72,7 @@
  <div align="center"><h3 align="center">Frontend</h3>
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="center" alt="HTML">
 <img src = "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="center" alt="CSS">
-<img src = "https://tse2.mm.bing.net/th?id=OIP.JEHLmWo6_SrpHPiP4AimIwHaDt&pid=Api&P=0&h=180" align="center" alt="Tailwind-CSS">
+<!-- <img src = "https://tse2.mm.bing.net/th?id=OIP.JEHLmWo6_SrpHPiP4AimIwHaDt&pid=Api&P=0&h=180" align="center" alt="Tailwind-CSS"> -->
 <img src ="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="center" alt="javascript">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"  align="center" alt="Reactjs" />
 
