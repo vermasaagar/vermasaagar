@@ -44,7 +44,7 @@
 <br />
 <div align="center">
 
-<a href="https://www.linkedin.com/in/vermasaagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rishu-jha-ba4325214" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vermasaagar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vermasaagar" height="30" width="40" /></a>
 
 
 <a title="samratv0786@gmail.com" href="mailto: samratv0786@gmail.com">
@@ -85,7 +85,7 @@
  <br/>
   <div align="center"><h3 align="center">Backend</h3> 
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" align="center" alt="nodejs" />
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/>
+<!-- <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" align="center" alt="mongodb"/> -->
 
 </div>
 
