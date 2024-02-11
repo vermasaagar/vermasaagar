@@ -22,7 +22,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 Passionate Software Developer
+- 🔭 Full Stack Web Developer
 
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1hLlhDw7bM2v9qZQW-AZzwSeotzw-B9GZ/view?usp=sharing)
 
