@@ -8,7 +8,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sagarverma&label=Profile%20views&color=0e75b6&style=flat" alt="sagarverma" />  </p>
 
-<h3 align="center">A passionate Full Stack Web Developer</h3>
+<h3 align="center">A passionate Java Developer</h3>
 
 
 
@@ -30,7 +30,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Github Repositories](https://github.com/vermasaagar?tab=repositories)**
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, C++ & JAVA**
+- 💬 Ask me about **HTML, CSS, JavaScript, React, SQL, postgreSQL, C++, JAVA, Spring, SpringBoot**
 
 - 📫 How to reach me **samratv0786@gmail.com**
 
